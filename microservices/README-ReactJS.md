@@ -13,8 +13,8 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   
  ### Installing
   <ul>
-  <li>Clone the repository by running git clone  </li>
-  <li>Change your directory to <b> /microservices/ReactJS-ui </b> </li>
+  <li>Clone the repository by running git clone https://github.com/hemant10-1995/watson-task3  </li>
+  <li>Change your directory to <b> /microservices/ReactJS-ui/app </b> </li>
   <li>Run <b> npm install </b> from your terminal to install all dependencies.</li>
   <li>Run <b>npm install material-ui </b> if there is an error for importing material-ui  </li>
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
@@ -22,7 +22,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
   <ul/>
   <br/>
-  <img src="https://github.com/Jyotsna-Singh-16/ReactJS-Watson-Natural-Language-Understanding-Readme/blob/master/mainpage.png" / >
+  <img src="" / >
   <br/>
   <br/>
   
@@ -32,14 +32,14 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
 </ul>
 <br/>
- <img src="https://github.com/Jyotsna-Singh-16/ReactJS-Watson-Natural-Language-Understanding-Readme/blob/master/responsepage.png" / >
+ <img src="" / >
  <br/>
   
   ### Front-end Developer
   <h4>~ Jyotsna Singh (@Jyotsna-Singh-16) </h4>
   
   ### Back-end Developer
-  <h4>~ Sankalp Singh Rathore (@sankalp139) </h4>
+  <h4>~  (@hemant10-1995) </h4>
 
 
   
