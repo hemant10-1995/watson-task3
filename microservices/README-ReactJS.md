@@ -32,14 +32,14 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
 </ul>
 <br/>
- <img src="" / >
+ <img src="https://github.com/hemant10-1995/watson-task3/blob/master/microservices/response.png" / >
  <br/>
   
   ### Front-end Developer
-  <h4>~ Jyotsna Singh (@Jyotsna-Singh-16) </h4>
+  <h4>~ JYOTSNA SINGH (@Jyotsna-Singh-16) </h4>
   
   ### Back-end Developer
-  <h4>~  (@hemant10-1995) </h4>
+  <h4>~ HEMANT KUMAR (@hemant10-1995) </h4>
 
 
   
