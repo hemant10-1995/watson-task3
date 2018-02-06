@@ -7,14 +7,14 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
 ### Framworks used
 <ul>
   <li>React-JS (for Front-end) </li>
-  <li>Node-JS Express (for Back-end) </li>
+  <li>Python Flask (for Back-end) </li>
   <li>Material-ui</li>
   </ul>
   
  ### Installing
   <ul>
-  <li>Clone the repository by running git clone hrjg </li>
-  <li>Change your directory to <b> /microservices/ui </b> </li>
+  <li>Clone the repository by running git clone  </li>
+  <li>Change your directory to <b> /microservices/ReactJS-ui </b> </li>
   <li>Run <b> npm install </b> from your terminal to install all dependencies.</li>
   <li>Run <b>npm install material-ui </b> if there is an error for importing material-ui  </li>
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
