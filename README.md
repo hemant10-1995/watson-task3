@@ -1,2 +1,5 @@
 # hello-python-flask
-#These step to follow run on you Local machine
+#These step follow to run on your Local machine
+
+step-1
+Clone this repository from the git clone command
