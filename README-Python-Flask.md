@@ -1,5 +1,6 @@
 <h2>Getting Started</h2>
-<p>This repository includes creation of Watson-Natural-Language-Understanding using Python-flask .</p>
+<p>This Repository contain a basic integration with Watson analyze API that identifies
+the category of some input text and Analyze text to extract meta-data from content such as concepts, entities, keywords, categories, relations and semantic roles. .</p>
 <ol>
 <h1>Instruction to run Watson-Natural-Language-Understanding using Python-flask and React-Js</h1>
 <li>Follow instruction README.ReactJs.md  </li>
