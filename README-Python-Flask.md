@@ -1,9 +1,10 @@
 <h2>Getting Started</h2>
 <p>This repository includes creation of Watson-Natural-Language-Understanding using Python-flask .</p>
-
+<ol>
 <h1>Instruction to run Watson-Natural-Language-Understanding using Python-flask and React-Js</h1>
-<li>Follow instruction which present on README.ReactJs.md </li>
-<li>You get <b>README-ReactJs.md<b> filepresent on microservices/ReactJs-ui/README-Reactjs.md </li>
+<li>Follow instruction README.ReactJs.md  </li>
+<li>You get <b>README-ReactJs.md <b> file present on microservices/ReactJs-ui/README-Reactjs.md </li>
+  </ol>
 
 <h2>Instructions to run only python-flask run on local machine </h2>
 <ol>
