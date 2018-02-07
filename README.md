@@ -1,4 +1,4 @@
-# watson-task3
+
 <h2>Getting Started</h2>
 <p>This Repository contain a basic integration with Watson analyze API that identifies
 the category of some input text and Analyze text to extract meta-data from content such as concepts, entities, keywords, categories, relations and semantic roles. .</p>
@@ -28,3 +28,6 @@ the category of some input text and Analyze text to extract meta-data from conte
   <li>Then you have to showing analyze result <b> With having categories ,relation,Semantic,entity,keyword concept and also</li>
 </ol>
 
+
+
+#
