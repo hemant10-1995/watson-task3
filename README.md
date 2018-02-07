@@ -36,4 +36,4 @@ the category of some input text and Analyze text to extract meta-data from conte
   <h4>~ HEMANT KUMAR (@hemant10-1995) </h4>
 
 ### React-native
-<h4>~ HEMANT KUMAR (@hemant10-1995) </h4>
+<h4>~ Ankit Tiwari (@git-ankit) </h4>
