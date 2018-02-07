@@ -1,0 +1,4 @@
+#Tue Feb 06 11:11:12 IST 2018
+base.0=D\:\\Internship\\Natural language identifier\\IBM NLU Python Flask\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Internship\\Natural language identifier\\IBM NLU Python Flask\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
