@@ -1,4 +1,9 @@
+<h2>Getting Started</h2>
 <p>This repository includes creation of Watson-Natural-Language-Understanding using Python-flask .</p>
+
+<h1>Instruction to run Watson-Natural-Language-Understanding using Python-flask and React-Js</h1>
+<li>Follow instruction which present on README.ReactJs.md </li>
+
 <h2>Instructions to run only python-flask run on local machine </h2>
 <ol>
   <li>Clone the repository by running <a>https://github.com/hemant10-1995/watson-task3.git</a> </li>
