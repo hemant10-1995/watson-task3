@@ -28,6 +28,12 @@ the category of some input text and Analyze text to extract meta-data from conte
   <li>Then you have to showing analyze result <b> With having categories ,relation,Semantic,entity,keyword concept and also</li>
 </ol>
 
+ 
+  ### Front-end Developer
+  <h4>~ JYOTSNA SINGH (@Jyotsna-Singh-16) </h4>
+  
+  ### Back-end Developer
+  <h4>~ HEMANT KUMAR (@hemant10-1995) </h4>
 
-
-#
+### React-native
+<h4>~ HEMANT KUMAR (@hemant10-1995) </h4>
