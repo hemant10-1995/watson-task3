@@ -16,6 +16,6 @@
 
   <li>Go to this link or copy this link http://127.0.0.1:5000/ and paste it on your browser.</li>
   <li>then you comes a input text box <b>enter those text which you want to analyze.</b></li>
-  <li>Then you have to showing analyze result</li>
+  <li>Then you have to showing analyze result <b> With having categories ,relation,Semantic,entity,keyword concept and also</li>
 </ol>
 
